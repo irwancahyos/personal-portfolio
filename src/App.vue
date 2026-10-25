@@ -1,7 +1,7 @@
 <script setup lang="ts">
-import HelloWorld from './components/HelloWorld.vue'
+import PortfolioHero from './components/PortfolioHero.vue'
 </script>
 
 <template>
-  <HelloWorld />
+  <PortfolioHero />
 </template>
